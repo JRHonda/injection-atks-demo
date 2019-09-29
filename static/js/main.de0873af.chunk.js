@@ -1,0 +1,2 @@
+(window["webpackJsonpinjection-atks-demo"]=window["webpackJsonpinjection-atks-demo"]||[]).push([[0],{4:function(e,n,t){e.exports=t(5)},5:function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o),i=t(3),c=t.n(i);t(10);c.a.render(r.a.createElement((function(){return r.a.createElement("div",null,"Hi There Justin!")}),null),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.de0873af.chunk.js.map

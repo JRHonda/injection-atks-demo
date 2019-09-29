@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/injection-atks-demo/static/js/main.de0873af.chunk.js",
+    "main.js.map": "/injection-atks-demo/static/js/main.de0873af.chunk.js.map",
+    "runtime-main.js": "/injection-atks-demo/static/js/runtime-main.b7f2f0f8.js",
+    "runtime-main.js.map": "/injection-atks-demo/static/js/runtime-main.b7f2f0f8.js.map",
+    "static/js/2.adf57dcb.chunk.js": "/injection-atks-demo/static/js/2.adf57dcb.chunk.js",
+    "static/js/2.adf57dcb.chunk.js.map": "/injection-atks-demo/static/js/2.adf57dcb.chunk.js.map",
+    "index.html": "/injection-atks-demo/index.html",
+    "precache-manifest.9cd4e275e833fbfc3924cafbc8cd0805.js": "/injection-atks-demo/precache-manifest.9cd4e275e833fbfc3924cafbc8cd0805.js",
+    "service-worker.js": "/injection-atks-demo/service-worker.js"
+  }
+}
