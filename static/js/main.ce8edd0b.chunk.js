@@ -1,2 +1,0 @@
-(window["webpackJsonpinjection-atks-demo"]=window["webpackJsonpinjection-atks-demo"]||[]).push([[0],{5:function(e,n,t){e.exports=t(6)},6:function(e,n,t){"use strict";t.r(n);var a=t(0),i=t.n(a),o=t(3),r=t.n(o),c=t(4),l=t.n(c);r.a.render(i.a.createElement((function(){return i.a.createElement("div",null,"Hi There Justin! Take a look at this image:",i.a.createElement("div",null,i.a.createElement("img",{alt:"avatar"},l.a.image.avatar())))}),null),document.querySelector("#root"))}},[[5,1,2]]]);
-//# sourceMappingURL=main.ce8edd0b.chunk.js.map
