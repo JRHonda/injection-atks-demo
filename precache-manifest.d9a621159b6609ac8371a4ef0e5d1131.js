@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d3b7d2776ee9e7f4f1d9b68bb172920",
+    "revision": "c28496294c9b7dafa483980aeaadbf1c",
     "url": "/injection-atks-demo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/injection-atks-demo/static/js/2.3bc4a449.chunk.js"
   },
   {
-    "revision": "d51c290e2b090e875c7d",
-    "url": "/injection-atks-demo/static/js/main.aff975b3.chunk.js"
+    "revision": "ee3b6ea0d73a7f873f2c",
+    "url": "/injection-atks-demo/static/js/main.3af3e647.chunk.js"
   },
   {
     "revision": "a12ba34f2744271706ed",
