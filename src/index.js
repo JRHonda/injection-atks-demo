@@ -1,14 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import faker from 'faker';
-
-const App = () => {
-    return (
-        <div>Hi There Justin!</div>
-    );
-}
+import App from './App';
 
 ReactDOM.render(
     <App />,
-    document.querySelector('#root')
-)
+    document.getElementById("root")
+);
