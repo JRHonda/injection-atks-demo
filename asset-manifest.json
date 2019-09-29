@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/injection-atks-demo/static/js/main.d88c314e.chunk.js",
-    "main.js.map": "/injection-atks-demo/static/js/main.d88c314e.chunk.js.map",
+    "main.js": "/injection-atks-demo/static/js/main.7cb3825c.chunk.js",
+    "main.js.map": "/injection-atks-demo/static/js/main.7cb3825c.chunk.js.map",
     "runtime-main.js": "/injection-atks-demo/static/js/runtime-main.b7f2f0f8.js",
     "runtime-main.js.map": "/injection-atks-demo/static/js/runtime-main.b7f2f0f8.js.map",
-    "static/js/2.3bc4a449.chunk.js": "/injection-atks-demo/static/js/2.3bc4a449.chunk.js",
-    "static/js/2.3bc4a449.chunk.js.map": "/injection-atks-demo/static/js/2.3bc4a449.chunk.js.map",
+    "static/js/2.adf57dcb.chunk.js": "/injection-atks-demo/static/js/2.adf57dcb.chunk.js",
+    "static/js/2.adf57dcb.chunk.js.map": "/injection-atks-demo/static/js/2.adf57dcb.chunk.js.map",
     "index.html": "/injection-atks-demo/index.html",
-    "precache-manifest.7a1c117ca82e76e9f811fe9175e42f1d.js": "/injection-atks-demo/precache-manifest.7a1c117ca82e76e9f811fe9175e42f1d.js",
+    "precache-manifest.970ea006a03cec523ccf2300338f86c5.js": "/injection-atks-demo/precache-manifest.970ea006a03cec523ccf2300338f86c5.js",
     "service-worker.js": "/injection-atks-demo/service-worker.js"
   }
 }
